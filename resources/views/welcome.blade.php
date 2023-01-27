@@ -47,7 +47,7 @@
         }
 
         .content > button {
-            flex-basis: 20%;
+            flex-basis: 30%;
         }
 
         .content > label {

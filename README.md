@@ -22,6 +22,8 @@ execution of the code from the command line using the `php artisan salary:paymen
 Running this tool locally requires you to download and install php and composer.
 - Installation with composer:
     - Run `composer install` to install the dependencies.
+    - Create a `.env` file using the [.env.example](/.env.example) file as a template. All the appropriate values has been filled in the `.env.example`, this will enable you to run the application locally without issues.
+    - Run `php artisan key:generate` to generate the application key.
 
 
 ## Usage

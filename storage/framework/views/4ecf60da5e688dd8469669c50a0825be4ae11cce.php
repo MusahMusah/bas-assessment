@@ -47,7 +47,7 @@
         }
 
         .content > button {
-            flex-basis: 20%;
+            flex-basis: 30%;
         }
 
         .content > label {
@@ -179,7 +179,7 @@
                 </select>
             </label>
 
-            <button type="submit" class="buttonDownload">Download</button>
+            <button type="submit" class="buttonDownload">Download CSV</button>
         </div>
     </form>
 </div>
